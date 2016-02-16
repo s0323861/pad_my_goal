@@ -278,7 +278,6 @@ my $html = <<HTML;
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>パズドラの目標を作ろう！(サンプル) - 無料＆シンプルなパズドラ目標管理ツール</title>
-<link rel="shortcut icon" href="./favicon.ico">
 <!-- Bootstrap -->
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
